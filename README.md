@@ -1,8 +1,8 @@
 # Executing the RDD2022 YOLO Baseline Training Notebook
 
-This guide explains how to run `RDD2022_YOLO_Baseline_Training.ipynb` in Google Colab, from preparing the dataset to training and retrieving the model outputs.
+This guide explains how to run `Model_Final.ipynb` in Google Colab, from preparing the dataset to training and retrieving the model outputs.
 
-**Notebook:** [RDD2022_YOLO_Baseline_Training.ipynb](https://colab.research.google.com/drive/1llypLXIO6GG-HlhJQOhKxhS8--BVx03h)
+**Notebook:** [Model_Final.ipynb] https://colab.research.google.com/drive/1llypLXIO6GG-HlhJQOhKxhS8--BVx03h#scrollTo=e-1l97mfDm9P
 
 ## 1. What the notebook does
 
